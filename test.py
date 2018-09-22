@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+# technikum.zse.com.pl/wsb/zaj1.pdf
+
 def getSnack():
 	return input("Snack: ")
 
